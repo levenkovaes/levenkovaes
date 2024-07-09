@@ -3,7 +3,7 @@ I'm a **front-end developer** specializing in building React applications.<br>
 I also have experience developing a full-stack application using the MERN stack.<br>
 <br>
 🔭 Working on a pet project (Travel Planner)<br>
-🌱 Currently learning testing and Jest<br>
+🌱 Currently learning testing (Jest)<br>
 <br>
 
 # 💻 Tech Stack
